@@ -1,0 +1,212 @@
+.forms{
+	background-color: powderblue;
+	height: 49vh;
+	font-size: 18px;
+	padding-top: 0.1px;
+	padding-left: 10px;
+	padding-right: 10px;
+	border-radius: 0 0 5px 5px;
+}
+
+.goat{
+	display: flex;
+	padding-top: 3px;
+	gap: 280px;
+
+}
+
+.dove{
+	background-color: powderblue;
+	height: 15vh;
+	margin-top: 10px;
+	padding: 10px;
+
+}
+
+.line-input{
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	background-color: powderblue;
+}
+
+.dove{
+	background-color: powderblue;
+	height: 15vh;
+	margin-top: 10px;
+	padding: 10px;
+
+}
+
+.line-input{
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	background-color: powderblue;
+}
+
+.dove{
+	background-color: powderblue;
+	height: 15vh;
+	margin-top: 10px;
+	padding: 10px;
+
+}
+
+.line-input{
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	background-color: powderblue;
+}
+
+.egg{
+	background-color: powderblue;
+	height: 20vh;
+	margin-top: 10px;
+	padding: 10px;
+	margin-bottom: 10px;
+	border-radius: 5px;
+
+}
+
+.line-input{
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	background-color: powderblue;
+	border-radius: 5px;
+}
+
+.bird{
+	background-color: powderblue;
+	height: 17svh;
+	margin-top: 10px;
+	padding: 10px;
+	border-radius: 5px;
+
+}
+
+.panda{
+	background-color: powderblue;
+	height: 24vh;
+	margin-top: 10px;
+	padding: 10px;
+	border-radius: 5px;
+
+}
+
+
+
+.dove{
+	background-color: powderblue;
+	height: 15vh;
+	margin-top: 10px;
+	padding: 10px;
+	border-radius: 5px;
+
+}
+
+.line-input{
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	background-color: powderblue;
+}
+
+.dove{
+	background-color: powderblue;
+	height: 15vh;
+	margin-top: 10px;
+	padding: 10px;
+
+}
+
+.line-input{
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	background-color: powderblue;
+}
+
+.dove{
+	background-color: powderblue;
+	height: 15vh;
+	margin-top: 10px;
+	padding: 10px;
+	overflow: hidden;
+
+
+
+}
+
+.line-input{
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	background-color: powderblue;
+}
+
+.eagle{
+	margin: 345px;
+	margin-top: 10px;
+
+
+}
+
+.duck{
+	background-color: mintcream;
+	margin-top: 10px;
+	padding: 10px;
+
+}
+
+.line2-input{
+	background-color: mintcream;
+	font-family: sans-serif;
+	color: grey;
+	font-weight: 25;
+}
+
+.progress-bar{
+
+	width: 200px;
+	height: 10px;
+	background-color: #40b835;
+	border-radius: 5px;
+	margin-top: 35px;
+
+}
+
+
+.conditions{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 18px;
+}
+
+.oil{
+	margin-top: -45px;
+
+}
+
+@media(orientation: portrait)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
